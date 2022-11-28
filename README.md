@@ -8,6 +8,8 @@ Demo 1：https://nianbroken.github.io/Firework_Simulator/
 
 Demo 2：https://fireworks.nianbroken.top/
 
+Demo 3：https://mengyuki.github.io/Firework_Simulator/
+
 ------
 
 展示图
